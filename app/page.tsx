@@ -16,7 +16,7 @@ import {
   PointLight,
   Color,
 } from 'three'
-import EQfrontroom from 'public/eqfrontroom.jpg'
+import EQfrontroom from 'public/EQfrontroom.jpg'
 import Image from 'next/image'
 
 export default function Index() {
